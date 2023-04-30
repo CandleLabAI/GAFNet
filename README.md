@@ -16,3 +16,15 @@ show that GAFNet is a versatile network that can be used
 for a wide range of downstream tasks. Experimental results demonstrate that our technique achieves state-of-theart performance on multimodal classification on the CrisisMD dataset and image generation on the COCO dataset.
 For image-text retrieval, our technique achieves competitive
 performance.
+
+
+- If your using our code please cite our paper
+`
+@inproceedings {susladkar2023GAFNet,
+title            = "GAFNet: A Global Fourier Self Attention Based Novel Network for multi-modal downstream tasks",
+year             = "2023",
+author           = "Onkar Susladkar and Gayatri Deshmukh and Dhruv Makwana and Sparsh Mittal and R Sai Chandra Teja and Rekha Singhal",
+booktitle        = "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+address          = "Hawaii, USA",
+}
+`
