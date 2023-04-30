@@ -20,7 +20,7 @@ performance.
 
 - If your using our code please cite our paper
 -
-`
+
 @inproceedings {susladkar2023GAFNet,
 title            = "GAFNet: A Global Fourier Self Attention Based Novel Network for multi-modal downstream tasks",
 year             = "2023",
@@ -28,4 +28,4 @@ author           = "Onkar Susladkar and Gayatri Deshmukh and Dhruv Makwana and S
 booktitle        = "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
 address          = "Hawaii, USA",
 }
-`
+
